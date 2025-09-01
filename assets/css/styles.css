@@ -84,3 +84,33 @@ header .sign-up-btn{
 .header .action{
     margin-left: 49px;
 }
+
+.hero .img-media {
+    width: 470px;
+    height: 685px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+.hero .media-sumary{
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center; */
+    display: inline-block;
+    width: 270px;
+    height: 244px;
+    border-radius: 12px;
+    background: red;
+}
+.hero .item{
+    display: flex;
+    margin-top: 28px;
+    margin-left: 24px;
+}
+.hero .icon{
+    width: 48px;
+    height: 48px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
